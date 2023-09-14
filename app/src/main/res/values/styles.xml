@@ -1,0 +1,11 @@
+<resources>
+    <!-- Style for TextView with red background -->
+    <style name="RedBackgroundTextView">
+        <item name="android:background">#FF0000</item> <!-- Red color background -->
+    </style>
+
+    <!-- Style for TextView with black background -->
+    <style name="BlackBackgroundTextView">
+        <item name="android:background">#000000</item> <!-- Black color background -->
+    </style>
+</resources>
